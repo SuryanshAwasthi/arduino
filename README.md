@@ -1,2 +1,2 @@
-# My-First-Repository
-Trying it for First Time
+line follower bot
+based on input on IR Blasters sensors
